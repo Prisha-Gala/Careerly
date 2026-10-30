@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "name": "Careerly", "path": "." }
+  ],
+  "settings": {
+    "search.exclude": {
+      "**/.sites-runtime": true,
+      "**/.wrangler": true,
+      "**/.vinext": true,
+      "**/dist": true
+    },
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+}

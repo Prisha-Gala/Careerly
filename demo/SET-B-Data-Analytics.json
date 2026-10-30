@@ -1,0 +1,282 @@
+{
+  "fictionalDemo": true,
+  "date": "2026-10-27",
+  "set": "B",
+  "theme": "Data analyst",
+  "login": {
+    "email": "meera.demo@example.test",
+    "password": "CareerlyDemo2026!",
+    "role": "student"
+  },
+  "student": {
+    "profile": {
+      "name": "Meera Iyer (Demo)",
+      "college": "Demo School of Computing (fictional)",
+      "degree": "B.Sc Data Science",
+      "year": 2027,
+      "goal": "Data analyst internship",
+      "skills": "Python, SQL, Pandas, Excel, Power BI",
+      "share": true
+    },
+    "applications": [
+      {
+        "company": "Demo - InsightBridge Analytics",
+        "role": "Data Analyst Intern",
+        "url": "https://example.com/?careerly-demo=data-analyst",
+        "date": "2026-10-23",
+        "deadline": "2026-11-20",
+        "status": "Assessment",
+        "notes": "SIMULATION: practise joins, missing values and descriptive statistics."
+      },
+      {
+        "company": "Demo - DataOrbit Solutions",
+        "role": "Junior BI Analyst",
+        "url": "https://example.com/?careerly-demo=bi-analyst",
+        "date": "2026-10-24",
+        "deadline": "2026-12-01",
+        "status": "Interview",
+        "interview": "2026-10-30T14:00",
+        "notes": "SIMULATION: prepare a dashboard walkthrough and discuss filter choices."
+      },
+      {
+        "company": "Demo - InsightBridge Analytics",
+        "role": "Reporting Assistant",
+        "url": "https://example.com/?careerly-demo=reporting-assistant",
+        "date": "2026-10-26",
+        "deadline": "2026-11-14",
+        "status": "Saved",
+        "notes": "SIMULATION: review Excel lookup functions and report validation."
+      }
+    ],
+    "resumes": [
+      {
+        "title": "Demo - Meera Data Analyst Resume",
+        "name": "Meera Iyer (Demo)",
+        "email": "meera.demo@example.test",
+        "goal": "Data analyst internship",
+        "summary": "Fictional data science student practising Python, SQL and dashboard design with sample academic datasets.",
+        "education": "Demo School of Computing (fictional) | B.Sc Data Science | Expected graduation 2027",
+        "experience": "Demo academic teamwork: cleaned sample datasets, wrote aggregation queries and presented dashboards. No paid work or real business impact is claimed.",
+        "skills": "Python, SQL, Pandas, Excel, Power BI, descriptive statistics",
+        "projects": "Retail Sales Dashboard - sample-data cleaning, SQL summaries and Power BI visuals. Campus Library Analysis - missing-value handling and category trends.",
+        "versions": [
+          {
+            "title": "Demo - Meera Data Analyst Resume",
+            "name": "Meera Iyer (Demo)",
+            "email": "meera.demo@example.test",
+            "goal": "Data analyst internship",
+            "summary": "Fictional data science student practising Python, SQL and dashboard design with sample academic datasets. First classroom draft.",
+            "education": "Demo School of Computing (fictional) | B.Sc Data Science | Expected graduation 2027",
+            "experience": "Demo academic teamwork: cleaned sample datasets, wrote aggregation queries and presented dashboards. No paid work or real business impact is claimed.",
+            "skills": "Python, SQL, Pandas, Excel, Power BI, descriptive statistics",
+            "projects": "Retail Sales Dashboard - sample-data cleaning, SQL summaries and Power BI visuals. Campus Library Analysis - missing-value handling and category trends.",
+            "date": "2026-10-24T12:00:00Z"
+          },
+          {
+            "title": "Demo - Meera Data Analyst Resume",
+            "name": "Meera Iyer (Demo)",
+            "email": "meera.demo@example.test",
+            "goal": "Data analyst internship",
+            "summary": "Fictional data science student practising Python, SQL and dashboard design with sample academic datasets.",
+            "education": "Demo School of Computing (fictional) | B.Sc Data Science | Expected graduation 2027",
+            "experience": "Demo academic teamwork: cleaned sample datasets, wrote aggregation queries and presented dashboards. No paid work or real business impact is claimed.",
+            "skills": "Python, SQL, Pandas, Excel, Power BI, descriptive statistics",
+            "projects": "Retail Sales Dashboard - sample-data cleaning, SQL summaries and Power BI visuals. Campus Library Analysis - missing-value handling and category trends.",
+            "date": "2026-10-27T12:00:00Z"
+          }
+        ],
+        "demo": true,
+        "demoSet": "B"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Demo - Retail Sales Dashboard",
+        "description": "Fictional academic project: cleaned a sample retail dataset, wrote monthly sales queries and built an interactive Power BI dashboard. No real business outcomes are claimed.",
+        "tech": "Python, Pandas, SQL, Power BI",
+        "github": "",
+        "url": "https://example.com/?careerly-demo=sales-dashboard",
+        "date": "2026-09-29"
+      },
+      {
+        "title": "Demo - Campus Library Analysis",
+        "description": "Fictional academic project: analyzed sample library borrowing patterns, handled missing values and summarized category trends with charts.",
+        "tech": "Python, Pandas, Excel",
+        "github": "",
+        "url": "https://example.com/?careerly-demo=library-analysis",
+        "date": "2026-10-15"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "progress": 75,
+        "target": 90
+      },
+      {
+        "name": "SQL",
+        "progress": 70,
+        "target": 90
+      },
+      {
+        "name": "Power BI",
+        "progress": 55,
+        "target": 80
+      },
+      {
+        "name": "Statistics",
+        "progress": 45,
+        "target": 75
+      }
+    ],
+    "coding": [
+      {
+        "title": "Demo - Duplicate Customer Records",
+        "platform": "Classroom SQL practice",
+        "difficulty": "Easy",
+        "topic": "GROUP BY and HAVING",
+        "date": "2026-10-24",
+        "url": "https://example.com/?careerly-demo=duplicate-records"
+      },
+      {
+        "title": "Demo - Second Highest Salary",
+        "platform": "Classroom SQL practice",
+        "difficulty": "Medium",
+        "topic": "Subqueries and ranking",
+        "date": "2026-10-25",
+        "url": "https://example.com/?careerly-demo=salary-ranking"
+      },
+      {
+        "title": "Demo - Monthly Revenue Summary",
+        "platform": "Classroom SQL practice",
+        "difficulty": "Medium",
+        "topic": "Joins and aggregation",
+        "date": "2026-10-26",
+        "url": "https://example.com/?careerly-demo=monthly-revenue"
+      }
+    ],
+    "interviews": [
+      {
+        "question": "When would you use an INNER JOIN versus a LEFT JOIN?",
+        "category": "Technical",
+        "status": "Confident",
+        "notes": "Use INNER JOIN for matched rows; LEFT JOIN retains all rows from the left table, including unmatched rows."
+      },
+      {
+        "question": "How do you handle missing values?",
+        "category": "Technical",
+        "status": "Practicing",
+        "notes": "Inspect the cause and amount of missingness. Explain deletion or imputation choices and validate the result."
+      },
+      {
+        "question": "Explain your dashboard to a nontechnical stakeholder.",
+        "category": "Behavioral",
+        "status": "Practicing",
+        "notes": "SIMULATION: start with the business question, explain the main trend, then discuss limits of the sample dataset."
+      }
+    ]
+  },
+  "admin": {
+    "companies": [
+      {
+        "name": "Demo - InsightBridge Analytics",
+        "industry": "Business analytics",
+        "url": "https://example.com/?careerly-demo=insightbridge",
+        "description": "Fictional analytics employer for demonstration only.",
+        "status": "Active"
+      },
+      {
+        "name": "Demo - DataOrbit Solutions",
+        "industry": "Data services",
+        "url": "https://example.com/?careerly-demo=dataorbit",
+        "description": "Fictional data services company; all listed roles are simulated.",
+        "status": "Active"
+      }
+    ],
+    "opportunities": [
+      {
+        "company": "Demo - InsightBridge Analytics",
+        "title": "Demo - Data Analyst Intern",
+        "location": "Mumbai / Hybrid",
+        "type": "Internship",
+        "deadline": "2026-11-20",
+        "requirements": "Python, SQL, Pandas and Excel. Explain data cleaning and basic descriptive statistics.",
+        "url": "https://example.com/?careerly-demo=data-analyst",
+        "status": "Published"
+      },
+      {
+        "company": "Demo - DataOrbit Solutions",
+        "title": "Demo - Junior BI Analyst",
+        "location": "Bengaluru / Hybrid",
+        "type": "Placement",
+        "deadline": "2026-12-01",
+        "requirements": "SQL, Power BI, Excel and clear communication. DAX knowledge is preferred, not mandatory.",
+        "url": "https://example.com/?careerly-demo=bi-analyst",
+        "status": "Published"
+      },
+      {
+        "company": "Demo - InsightBridge Analytics",
+        "title": "Demo - Reporting Assistant",
+        "location": "Remote",
+        "type": "Part-time",
+        "deadline": "2026-11-14",
+        "requirements": "Excel, SQL, charts and careful validation of business reports. Python is helpful.",
+        "url": "https://example.com/?careerly-demo=reporting-assistant",
+        "status": "Published"
+      },
+      {
+        "company": "Demo - DataOrbit Solutions",
+        "title": "Demo - Expired Data Internship",
+        "location": "Remote",
+        "type": "Internship",
+        "deadline": "2026-10-20",
+        "requirements": "Python and SQL.",
+        "url": "https://example.com/?careerly-demo=expired-data",
+        "status": "Published"
+      }
+    ],
+    "questions": [
+      {
+        "question": "Explain INNER JOIN and LEFT JOIN with a small example.",
+        "category": "Technical",
+        "notes": "Describe which rows are retained and explain unmatched values."
+      },
+      {
+        "question": "How would you validate a data dashboard?",
+        "category": "Technical",
+        "notes": "Reconcile totals with the source, check filters and date ranges, and document assumptions."
+      },
+      {
+        "question": "How do you explain an uncertain conclusion to a stakeholder?",
+        "category": "Behavioral",
+        "notes": "State the evidence and limitations; avoid claiming certainty that the data does not support."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Demo - Pandas Cleaning Checklist",
+        "skill": "Python",
+        "url": "https://example.com/?careerly-demo=pandas-resource",
+        "description": "Placeholder checklist for a fictional sample-data exercise."
+      },
+      {
+        "title": "Demo - BI Dashboard Review Guide",
+        "skill": "Power BI",
+        "url": "https://example.com/?careerly-demo=bi-resource",
+        "description": "Placeholder classroom resource for charts, filters and validation."
+      }
+    ],
+    "announcements": [
+      {
+        "title": "Demo - Analytics Interview Practice",
+        "description": "FICTIONAL DEMO EVENT: revise joins, missing values and dashboard validation. Review the published demo analytics roles.",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  "aiPrompts": [
+    "Match my Python, SQL and Power BI skills to the published demo opportunities. Explain gaps such as DAX.",
+    "Suggest a portfolio project that strengthens my statistics skills.",
+    "Draft a data analyst resume using only my saved profile and academic projects."
+  ]
+}

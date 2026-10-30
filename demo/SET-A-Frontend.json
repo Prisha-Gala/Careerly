@@ -1,0 +1,292 @@
+{
+  "fictionalDemo": true,
+  "date": "2026-10-27",
+  "set": "A",
+  "theme": "Frontend developer",
+  "login": {
+    "email": "aarav.demo@example.test",
+    "password": "CareerlyDemo2026!",
+    "role": "student"
+  },
+  "student": {
+    "profile": {
+      "name": "Aarav Shah (Demo)",
+      "college": "Demo Institute of Technology (fictional)",
+      "degree": "B.Tech Computer Engineering",
+      "year": 2027,
+      "goal": "Frontend developer internship",
+      "skills": "JavaScript, React, HTML, CSS, SQL",
+      "share": true
+    },
+    "applications": [
+      {
+        "company": "Demo - PixelPath Labs",
+        "role": "React Frontend Intern",
+        "url": "https://example.com/?careerly-demo=react-intern",
+        "date": "2026-10-24",
+        "deadline": "2026-11-17",
+        "status": "Interview",
+        "interview": "2026-10-29T10:30",
+        "notes": "SIMULATION: prepare a walkthrough of the task-board project."
+      },
+      {
+        "company": "Demo - CloudNest Systems",
+        "role": "Junior Web Developer",
+        "url": "https://example.com/?careerly-demo=web-developer",
+        "date": "2026-10-25",
+        "deadline": "2026-11-26",
+        "status": "Applied",
+        "notes": "SIMULATION: tailor the resume to REST APIs and Git."
+      },
+      {
+        "company": "Demo - PixelPath Labs",
+        "role": "UI Developer Assistant",
+        "url": "https://example.com/?careerly-demo=ui-assistant",
+        "date": "2026-10-27",
+        "deadline": "2026-11-10",
+        "status": "Saved",
+        "notes": "SIMULATION: check the responsive-layout requirements."
+      }
+    ],
+    "resumes": [
+      {
+        "title": "Demo - Aarav Frontend Resume",
+        "name": "Aarav Shah (Demo)",
+        "email": "aarav.demo@example.test",
+        "goal": "Frontend developer internship",
+        "summary": "Fictional computer engineering student practising React, JavaScript and SQL through academic projects.",
+        "education": "Demo Institute of Technology (fictional) | B.Tech Computer Engineering | Expected graduation 2027",
+        "experience": "Demo academic teamwork: contributed task components, form validation and SQL summary queries. No professional employment is claimed.",
+        "skills": "JavaScript, React, HTML, CSS, SQL, Git",
+        "projects": "Campus Task Board - React task creation, editing and filtering. Student Expense Tracker - categorized expenses and SQL summaries.",
+        "versions": [
+          {
+            "title": "Demo - Aarav Frontend Resume",
+            "name": "Aarav Shah (Demo)",
+            "email": "aarav.demo@example.test",
+            "goal": "Frontend developer internship",
+            "summary": "Fictional computer engineering student practising React, JavaScript and SQL through academic projects. First classroom draft.",
+            "education": "Demo Institute of Technology (fictional) | B.Tech Computer Engineering | Expected graduation 2027",
+            "experience": "Demo academic teamwork: contributed task components, form validation and SQL summary queries. No professional employment is claimed.",
+            "skills": "JavaScript, React, HTML, CSS, SQL, Git",
+            "projects": "Campus Task Board - React task creation, editing and filtering. Student Expense Tracker - categorized expenses and SQL summaries.",
+            "date": "2026-10-24T12:00:00Z"
+          },
+          {
+            "title": "Demo - Aarav Frontend Resume",
+            "name": "Aarav Shah (Demo)",
+            "email": "aarav.demo@example.test",
+            "goal": "Frontend developer internship",
+            "summary": "Fictional computer engineering student practising React, JavaScript and SQL through academic projects.",
+            "education": "Demo Institute of Technology (fictional) | B.Tech Computer Engineering | Expected graduation 2027",
+            "experience": "Demo academic teamwork: contributed task components, form validation and SQL summary queries. No professional employment is claimed.",
+            "skills": "JavaScript, React, HTML, CSS, SQL, Git",
+            "projects": "Campus Task Board - React task creation, editing and filtering. Student Expense Tracker - categorized expenses and SQL summaries.",
+            "date": "2026-10-27T12:00:00Z"
+          }
+        ],
+        "demo": true,
+        "demoSet": "A"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Demo - Campus Task Board",
+        "description": "Fictional academic project: a React task board with create, edit, status filters and local persistence. The demo student implemented the task components and form validation.",
+        "tech": "React, JavaScript, CSS",
+        "github": "",
+        "url": "https://example.com/?careerly-demo=task-board",
+        "date": "2026-09-27"
+      },
+      {
+        "title": "Demo - Student Expense Tracker",
+        "description": "Fictional academic project: categorized expenses, monthly summaries and SQL-backed records. The demo student designed the expense table and summary queries.",
+        "tech": "JavaScript, SQL, HTML, CSS",
+        "github": "",
+        "url": "https://example.com/?careerly-demo=expense-tracker",
+        "date": "2026-10-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "progress": 70,
+        "target": 85
+      },
+      {
+        "name": "JavaScript",
+        "progress": 75,
+        "target": 90
+      },
+      {
+        "name": "SQL",
+        "progress": 45,
+        "target": 75
+      },
+      {
+        "name": "Git",
+        "progress": 55,
+        "target": 80
+      }
+    ],
+    "coding": [
+      {
+        "title": "Demo - Two Sum",
+        "platform": "Classroom practice",
+        "difficulty": "Easy",
+        "topic": "Arrays and hash maps",
+        "date": "2026-10-24",
+        "url": "https://example.com/?careerly-demo=two-sum"
+      },
+      {
+        "title": "Demo - Valid Parentheses",
+        "platform": "Classroom practice",
+        "difficulty": "Easy",
+        "topic": "Stacks",
+        "date": "2026-10-25",
+        "url": "https://example.com/?careerly-demo=parentheses"
+      },
+      {
+        "title": "Demo - Longest Unique Substring",
+        "platform": "Classroom practice",
+        "difficulty": "Medium",
+        "topic": "Sliding window",
+        "date": "2026-10-26",
+        "url": "https://example.com/?careerly-demo=substring"
+      }
+    ],
+    "interviews": [
+      {
+        "question": "Explain React props and state.",
+        "category": "Technical",
+        "status": "Confident",
+        "notes": "Props are passed to a component. State stores values that the component updates."
+      },
+      {
+        "question": "Describe a bug you debugged in your project.",
+        "category": "Behavioral",
+        "status": "Practicing",
+        "notes": "SIMULATION: a stale filter value caused task results to lag; updated the state flow and checked the filter cases."
+      },
+      {
+        "question": "Tell me about yourself.",
+        "category": "HR",
+        "status": "Practicing",
+        "notes": "I am a fictional engineering student interested in frontend internships. My sample portfolio includes a task board and expense tracker."
+      }
+    ]
+  },
+  "admin": {
+    "companies": [
+      {
+        "name": "Demo - PixelPath Labs",
+        "industry": "Web development",
+        "url": "https://example.com/?careerly-demo=pixelpath",
+        "description": "Fictional employer for the classroom presentation.",
+        "status": "Active"
+      },
+      {
+        "name": "Demo - CloudNest Systems",
+        "industry": "Software services",
+        "url": "https://example.com/?careerly-demo=cloudnest",
+        "description": "Fictional software company; no real vacancies.",
+        "status": "Active"
+      }
+    ],
+    "opportunities": [
+      {
+        "company": "Demo - PixelPath Labs",
+        "title": "Demo - React Frontend Intern",
+        "location": "Mumbai / Hybrid",
+        "type": "Internship",
+        "deadline": "2026-11-17",
+        "requirements": "JavaScript, React, HTML and CSS. SQL is helpful. Open to engineering students; portfolio project preferred.",
+        "url": "https://example.com/?careerly-demo=react-intern",
+        "status": "Published"
+      },
+      {
+        "company": "Demo - CloudNest Systems",
+        "title": "Demo - Junior Web Developer",
+        "location": "Pune / Hybrid",
+        "type": "Placement",
+        "deadline": "2026-11-26",
+        "requirements": "JavaScript, React, SQL and Git. Familiarity with REST APIs; final-year students may apply.",
+        "url": "https://example.com/?careerly-demo=web-developer",
+        "status": "Published"
+      },
+      {
+        "company": "Demo - PixelPath Labs",
+        "title": "Demo - UI Developer Assistant",
+        "location": "Remote",
+        "type": "Part-time",
+        "deadline": "2026-11-10",
+        "requirements": "HTML, CSS, responsive layouts and basic JavaScript. React is a plus.",
+        "url": "https://example.com/?careerly-demo=ui-assistant",
+        "status": "Published"
+      },
+      {
+        "company": "Demo - CloudNest Systems",
+        "title": "Demo - Full Stack Intern (draft)",
+        "location": "Mumbai",
+        "type": "Internship",
+        "deadline": "2026-11-21",
+        "requirements": "React, Node.js, SQL and API testing.",
+        "url": "https://example.com/?careerly-demo=draft-fullstack",
+        "status": "Draft"
+      },
+      {
+        "company": "Demo - PixelPath Labs",
+        "title": "Demo - Closed Design Internship",
+        "location": "Remote",
+        "type": "Internship",
+        "deadline": "2026-11-16",
+        "requirements": "HTML, CSS and accessibility basics.",
+        "url": "https://example.com/?careerly-demo=closed-design",
+        "status": "Closed"
+      }
+    ],
+    "questions": [
+      {
+        "question": "What is the difference between props and state in React?",
+        "category": "Technical",
+        "notes": "Define each, explain ownership and give a component example."
+      },
+      {
+        "question": "How would you make a web form accessible?",
+        "category": "Technical",
+        "notes": "Discuss labels, keyboard support, clear validation and focus handling."
+      },
+      {
+        "question": "Tell me about a time you worked in a team.",
+        "category": "Behavioral",
+        "notes": "Use situation, task, action and result; avoid invented personal experience."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Demo - React Component Practice",
+        "skill": "React",
+        "url": "https://example.com/?careerly-demo=react-resource",
+        "description": "Placeholder resource for presenting admin-managed learning links."
+      },
+      {
+        "title": "Demo - SQL Query Exercises",
+        "skill": "SQL",
+        "url": "https://example.com/?careerly-demo=sql-resource",
+        "description": "Placeholder exercise pack for the classroom demonstration."
+      }
+    ],
+    "announcements": [
+      {
+        "title": "Demo - Frontend Portfolio Review",
+        "description": "FICTIONAL DEMO EVENT: prepare a two-minute walkthrough of a React project and review the published demo frontend roles.",
+        "date": "2026-10-27"
+      }
+    ]
+  },
+  "aiPrompts": [
+    "Match my React and JavaScript skills to the published demo internships. Explain skill gaps.",
+    "Suggest two portfolio projects that strengthen my SQL skills.",
+    "Draft a resume using only my saved academic projects. Do not invent employment."
+  ]
+}

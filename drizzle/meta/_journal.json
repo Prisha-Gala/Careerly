@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792253865060,
+      "tag": "0000_wide_sheva_callister",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792706948661,
+      "tag": "0001_concerned_spyke",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792956533185,
+      "tag": "0002_cool_luminals",
+      "breakpoints": true
+    }
+  ]
+}
